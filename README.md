@@ -23,7 +23,7 @@
 
 ## 💼 Projetos Destacados
 
-### [Comparador de Ementas Acadêmicas]
+### Comparador de Ementas Acadêmicas
 Ferramenta de comparação de ementas acadêmicas desenvolvida para ajudar na transição de alunos entre universidades. Analisa e compara ementas para sugerir o período mais adequado de ingresso.
 
 ---
