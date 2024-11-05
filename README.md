@@ -13,7 +13,7 @@
 
 ## 🔧 Habilidades Técnicas
 
-- **Linguagens**: HTMl, CSS, C, SQL, Python
+- **Linguagens**: HTMl5, CSS, C, SQL, Python
 - **Banco de Dados**: SQLite, MariaDB, MySQL
 - **Inteligência Artificial**: Processamento de Linguagem Natural (PLN), Modelos Generativos
 - **Ferramentas**: Docker, Git, PowerShell
