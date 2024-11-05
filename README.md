@@ -16,7 +16,7 @@
 - **Linguagens**: HTMl5, CSS, C, SQL, Python
 - **Banco de Dados**: SQLite, MariaDB, MySQL
 - **Inteligência Artificial**: Processamento de Linguagem Natural (PLN), Modelos Generativos
-- **Ferramentas**: Docker, Git, PowerShell
+- **Ferramentas**:Git, PowerShell
 - **Outras Tecnologias**: Web Scraping, Automação de Processos
 
 ---
