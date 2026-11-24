@@ -36,7 +36,7 @@ Estou sempre em busca de contribuir com a comunidade open source. Fique à vonta
 
 ## 🎓 Educação
 
-- **Análise e Desenvolvimento de Sistemas** - UniAlfa (Em andamento)
+- **Análise e Desenvolvimento de Sistemas** - UniAlfa 
 - Foco em **Inteligência Artificial**, **Desenvolvimento Web** e **Banco de Dados**.
 
 ---
